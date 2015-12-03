@@ -7,13 +7,30 @@ header	{
 	padding:5px;
 }
 
-nav  	{
+.nav ul {
+        list-style:none;
 	line-height:25px;
 	background-color:#2C001E;
 	height:300px;
 	width:100px;
 	float:left;
 	padding:5px;
+}
+
+.nav li {
+        display: inline-block;
+        line-height:25px;
+        background-color:#2C001E;
+        height:300px;
+        width:100px;
+        float:left;
+        padding:5px;
+}
+
+.nav a 	{
+	text-decoration:none;
+	display:block;
+	color:#2C001E;
 }
 
 p	{
