@@ -5,7 +5,7 @@
   </head>
  
   <ul>
-    <li><a href="index.html">Home</a></li>
+    <li><a href="index.html"><p>Home</p></a></li>
   </ul>
 
 <!-- <?php include 'navbar.php';?> -->
