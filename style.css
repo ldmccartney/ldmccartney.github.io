@@ -1,13 +1,13 @@
 <style>
 
-#header	{
+header	{
 	background-color:#2C001E;
 	color:#77216F;
 	text-align:center;
 	padding:5px;
 }
 
-#nav 	{
+nav  	{
 	line-height:25px;
 	background-color:#2C001E;
 	height:300px;
@@ -16,7 +16,7 @@
 	padding:5px;
 }
 
-#p	{
+p	{
 	font-color:#77216F;
 }
 
