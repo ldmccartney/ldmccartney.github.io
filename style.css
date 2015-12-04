@@ -2,6 +2,11 @@ body	{
 	background:#DD4814;
 }
 
+a	{
+	color:#FFFFFF;
+	font-family:Candara;
+}
+
 h1	{
 	color:#FFFFFF;
 	text-align:center;
@@ -23,7 +28,7 @@ ul {
         list-style:none;
 	line-height:25px;
 	height:50px;
-	width:100px;
+	width:300px;
 	padding:5px;
 }
 
