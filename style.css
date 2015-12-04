@@ -1,5 +1,5 @@
 body	{
-	background:#DD4814;
+	background:#FFFFFF;
 }
 
 a	{
@@ -7,7 +7,20 @@ a	{
 	font-family:Candara;
 }
 
+a:visited 	{
+	color:#FBECE7;
+	font-family:Candara;
+	text-decoration:none;
+	}
+
+a:hover	{
+	color:#DD4814;
+	background:#FFFFFF;
+}
+
+
 h1	{
+	background:#DD4814;
 	color:#FFFFFF;
 	text-align:center;
 	padding:5px;
@@ -16,7 +29,7 @@ h1	{
 }
 
 h2	{
-	
+	background:#DD4814;
 	color:#FFFFFF;
 	text-align:left;
 	padding:5px;
@@ -25,6 +38,7 @@ h2	{
 }
 
 ul {
+	background:#DD4814;
         list-style:none;
 	line-height:25px;
 	height:50px;
@@ -33,6 +47,7 @@ ul {
 }
 
 li {
+	background:#DD4814;
         display: inline-block;
         line-height:25px;
 	color:#FFFFFF;
@@ -44,6 +59,7 @@ li {
 }
 
 p	{
+	background:#DD4814;
 	color:#FFFFFF;
 	font-family:Candara;
 }
