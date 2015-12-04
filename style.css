@@ -23,15 +23,12 @@ li {
         width:100px;
         float:left;
         padding:5px;
-}
-
-li a 	{
-	text-decoration:none;
-	display:block;
-	color:#77216F;
+	font-weight:bold;
+	font-family:Cadona;
 }
 
 p	{
-	font-color:#77216F;
+	background-color:#77216F;
+	font-color:#2C001E;
 }
 
